@@ -26,4 +26,4 @@ Um jovem de 22 anos, autista e com hiperfoco em programação, com forte lógica
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojesus9&theme=blue-green)
