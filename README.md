@@ -3,7 +3,7 @@
 
 ## Estudando
 
-Linguagem C, Java, Python, Javascript.
+Linguagem C, Java, Python.
 
 ## Hobbies
 
